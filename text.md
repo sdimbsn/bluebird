@@ -1,4 +1,4 @@
-# Синяя птица 
+# Синяя птица <img align="right" width="60" height="20" src="bird.png"> 
 
 
 
