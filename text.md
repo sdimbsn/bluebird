@@ -1,5 +1,4 @@
-# Синяя птица <img align="right" width="60" height="60" src="bird.png"> 
-
+# Синяя птица 
 
 
 ## Содержание
